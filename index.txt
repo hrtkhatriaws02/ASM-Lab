@@ -1,0 +1,1 @@
+hrtk0001.asm - Print "Shree Ganeshay Namah!" to the console
