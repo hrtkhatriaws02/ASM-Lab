@@ -1,4 +1,4 @@
-# 🖥️ ASM-Lab (Mainframe Assembly)
+# 🖥️ IBM-ASM-Programs (Mainframe Assembly)
 
 This repository contains personal practice programs written in **IBM Mainframe Assembly Language (HLASM)**. Each program demonstrates specific low-level system concepts, operations, or features of the z/Architecture.
 
